@@ -1,0 +1,5 @@
+/venv/
+/tests/__pycache__/*
+/tests/.coverage
+/applications/__pycache__/*
+
